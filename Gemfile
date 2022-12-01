@@ -7,7 +7,7 @@ ruby '2.7.0'
 # gem "rails"
 group :development, :test do
   gem "rspec"
-  gem 'sinatra', '~> 2.0', '>= 2.0.8.1'
+  gem 'sinatra', '~> 2.2'
   gem 'shotgun', '~> 0.9.2'
   gem 'selenium-webdriver'
   gem 'capybara'
